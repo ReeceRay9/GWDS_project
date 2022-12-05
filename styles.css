@@ -4,3 +4,28 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+
+P {
+ 
+}
+
+.home-p {
+    font-size: 150px; 
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.opening-section{
+    background-color:aqua;
+    ertical-align: middle;
+    flex-wrap: wrap;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.home-p{
+    color: blanchedalmond;
+}
+
+.footer{
+    color:blanchedalmond
+}
