@@ -45,3 +45,17 @@ h1 {
     font-size: 75px;
     color: white;
 }
+
+.report{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    color: black;
+    font-style: oblique;
+
+}
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
